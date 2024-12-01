@@ -11,7 +11,7 @@ Clone the repository to your local machine:
 
 
 Copy code
-git clone https://github.com/yourusername/your-repository.git  
+git clone https://github.com/JinkaChenchuDharani/Automated-Endometriosis-Detection-Using-Histopathological-Image-Data-with-a-Hybrid-CNNRNN-Model/tree/main 
 cd your-repository  
 
 2. Install Dependencies
